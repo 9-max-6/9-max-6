@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Maxwell; I+am+a+full+stack+software+engineer; and+a+SecOps+Zealot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Maxwell;I+am+a+full+stack+software+engineer;and+a+SecOps+Zealot)](https://git.io/typing-svg)
 <!--
 **9-max-6/9-max-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
