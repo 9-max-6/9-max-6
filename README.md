@@ -5,30 +5,26 @@
 ### I'm a Software Engineering student at African Leadership X  
 ---
 ## 🔭I’m currently working on...
-> My portfolio website that will showcase the work that I've accomplished so far in my career.  
+> An AirBnB Clone that is supposed to support some of the features of the AirBnB platform. 
 > My Software Engineering skills with ALX such as
-> * Memory management with **C**
-> * Software Architecture **TOGAF**
+> * Back-end web-developement in **Django** and **Flask**
+> * Object Relational Mappers with **SQLAlchemy**
 
 ## 🌱 I’m currently learning...
-> NextJS, ReactJS, and NodeJS  
-> * The sleepless nights  
+> Django, Flask, and NodeJS  
+> * Incorporating sound business logic to the backend is the foundation of security and convenience.   
 
-> Low-level programming in powerful and all-time favorite **C**  
-> * I'm loving it
-  
-> Bash Scripting in Linux for Automation  
+> Bash Scripting in Linux for Automation and Fabric for code Shipping  
 
 ## ✨ I’m looking to collaborate on ...  
 > Any full-stack web development projects.  
-> Especially in the **MERN** stack.
+> Especially in the **Python**, **React** and **Django**.
 
 ---
 ## 💬 Ask me about ...  
 > * Coding  
 > * Blogging  
 > * Dogs  
-> * Cooking  
 > * Gaming  
 > * Reading  
   <!--
