@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;I+am+a+full+stack+software+engineer;and+a+SecOps+Zealot;I+am+open+to+collaboration+on+coding+projects;Django+Python+ReactJS+Javascript+C)](https://git.io/typing-svg)
 ---
-# **Hi, I'm Maxwell**  
 ### I'm a Software Engineering student at African Leadership X  
 ---
 ## 🔭I’m currently working on...
