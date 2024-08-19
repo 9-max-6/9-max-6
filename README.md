@@ -4,16 +4,18 @@
 ### I'm a Software Engineering student at African Leadership X  
 ---
 ## 🔭I’m currently working on...
-> An AirBnB Clone that is supposed to support some of the features of the AirBnB platform. 
+> A business development platform that helps companies find opportunities in the international market that align with their objectives.
+> A real-time analytics app written in Python using Redis and MongoDB to track usage patterns of users on the system aforementioned.
 > My Software Engineering skills with ALX such as
-> * Back-end web-developement in **Django** and **Flask**
-> * Object Relational Mappers with **SQLAlchemy**
+> * Back-end web-developement in **Django** and **Node JS**
+> * Caching using **Redis** and **NoSQL** using **MongoDB**
+> * Full-stack Javascript because as they say, `Everything that can be written in Javascript will eventually be written in Javascript`.
 
 ## 🌱 I’m currently learning...
-> Django, Flask, and NodeJS  
+> Django, Redis, MongoDB, and NodeJS  
 > * Incorporating sound business logic to the backend is the foundation of security and convenience.   
 
-> Bash Scripting in Linux for Automation and Fabric for code Shipping  
+> Bash Scripting in Linux for Automation and Fabric for code Shipping
 
 ## ✨ I’m looking to collaborate on ...  
 > Any full-stack web development projects.  
