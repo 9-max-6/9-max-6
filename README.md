@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;I+am+a+full+stack+software+engineer;and+a+SecOps+Zealot;I+am+open+to+collaboration+on+coding+projects;Django+Python+ReactJS+Javascript+C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;I+am+a+full+stack+software+engineer;and+a+SecOps+Zealot;I+am+open+to+collaboration+on+coding+projects;Django+NextJS+ReactJS+Javascript+C)](https://git.io/typing-svg)
 ---
 ### I'm a Software Engineer/System Administrator at DT Global Ltd  
 ---
@@ -8,18 +8,15 @@
 > A real-time analytics app written in Python using Redis and MongoDB to track usage patterns of users on the system aforementioned.
 > My Software Engineering skills with ALX such as
 > * Back-end web-developement in **Django** and **Node JS**
-> * Caching using **Redis** and **NoSQL** using **MongoDB**
-> * Full-stack Javascript because as they say, `Everything that can be written in Javascript will eventually be written in Javascript`.
+> * Fullstack web-developement in **Next JS**, **Drizzle**, and **PostgreSQL**
 
 ## 🌱 I’m currently learning...
-> Django, Redis, MongoDB, and NodeJS  
+> Next JS, PostgreSQL Administration, and Devops in Golang.  
 > * Incorporating sound business logic to the backend is the foundation of security and convenience.   
-
-> Bash Scripting in Linux for Automation and Fabric for code Shipping
 
 ## ✨ I’m looking to collaborate on ...  
 > Any full-stack web development projects.  
-> Especially in the **Python**, **React** and **Django**.
+> Especially in the **Next JS** and **Django**.
 
 ---
 ## 💬 Ask me about ...  
